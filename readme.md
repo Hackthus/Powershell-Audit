@@ -1,4 +1,4 @@
-# Audit du système Windows
+# Audit système Windows
 
 Ce script PowerShell permet de réaliser un audit du système Windows pour collecter diverses informations sur le système d'exploitation, le matériel, les utilisateurs locaux, les logiciels installés, le stockage, la RAM et la carte graphique.
 
